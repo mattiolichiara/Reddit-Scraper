@@ -17,3 +17,13 @@
 ![Reddit-Scraper](MEDIA/8.png)
 
 ![Reddit-Scraper](MEDIA/10.png)
+
+![Reddit-Scraper](MEDIA/11.png)
+
+![Reddit-Scraper](MEDIA/12.png)
+
+![Reddit-Scraper](MEDIA/13.png)
+
+![Reddit-Scraper](MEDIA/14.png)
+
+![Reddit-Scraper](MEDIA/15.png)
