@@ -39,7 +39,7 @@ writingSubs = set()
 except NotFound:
     print("Invalid Username")'''
 
-user = reddit.redditor('imveryfontofyou')
+user = reddit.redditor('**************')
 fileNameComments = str(user)
 
 
