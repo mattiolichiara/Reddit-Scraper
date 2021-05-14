@@ -23,7 +23,7 @@ sns.set(style='darkgrid', context='talk', palette='Dark2')
 
 
 ##***API's Auth***##
-reddit = praw.Reddit(client_id='VDY8l7UHsT5jTg', client_secret='fyttUebnIs3vvcAX3Ju6dwAWzSg', user_agent='forumgames')
+reddit = praw.Reddit(client_id='**************', client_secret='**************', user_agent='**************')
 
 
 
