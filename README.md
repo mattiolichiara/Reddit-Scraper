@@ -14,6 +14,8 @@
 
 ![Reddit-Scraper](MEDIA/7.PNG)
 
-![Reddit-Scraper](MEDIA/8.PNG)
+![Reddit-Scraper](MEDIA/8.png)
 
-![Reddit-Scraper](MEDIA/9.PNG)
+![Reddit-Scraper](MEDIA/9.csv)
+
+![Reddit-Scraper](MEDIA/10.png)
