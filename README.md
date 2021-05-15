@@ -27,9 +27,9 @@ Labeling data is extremely useful to apply Sentiment Analysis on these comments 
 
 ![Reddit-Scraper](MEDIA/10.png)
 
-# GENERATING A LIST OF SUBREDDIT RECOMMENDATIONS
-
 ![Reddit-Scraper](MEDIA/1.PNG)
+
+# LIST OF SUBREDDIT RECOMMENDATIONS
 
 ![Reddit-Scraper](MEDIA/2.PNG)
 
