@@ -4,9 +4,12 @@ The goal of this project is to retrieve some data related to a specific user in 
 
 #RETRIEVING DATA
 
-
+The first step is retrieving a good amount of comments by an user.
+I used the Reddit PRAW library so the limit is 1000 comments.
 
 ![Reddit-Scraper](MEDIA/1.PNG)
+
+#LABELING DATA
 
 ![Reddit-Scraper](MEDIA/2.PNG)
 
