@@ -25,6 +25,10 @@ The library used here is the NLTK.
     
 Labeling data is extremely useful to apply Sentiment Analysis on these comments in order to understand what connotation have the user's comments most of the time.
 
+![Reddit-Scraper](MEDIA/10.png)
+
+# GENERATING A LIST OF SUBREDDIT RECOMMENDATIONS
+
 ![Reddit-Scraper](MEDIA/1.PNG)
 
 ![Reddit-Scraper](MEDIA/2.PNG)
@@ -40,8 +44,6 @@ Labeling data is extremely useful to apply Sentiment Analysis on these comments 
 ![Reddit-Scraper](MEDIA/7.PNG)
 
 ![Reddit-Scraper](MEDIA/8.png)
-
-![Reddit-Scraper](MEDIA/10.png)
 
 ![Reddit-Scraper](MEDIA/11.png)
 
