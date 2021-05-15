@@ -31,6 +31,16 @@ Labeling data is extremely useful to apply Sentiment Analysis on these comments 
 
 # LIST OF SUBREDDIT RECOMMENDATIONS
 
+![Reddit-Scraper](MEDIA/11.png)
+
+![Reddit-Scraper](MEDIA/12.png)
+
+![Reddit-Scraper](MEDIA/13.png)
+
+![Reddit-Scraper](MEDIA/14.png)
+
+![Reddit-Scraper](MEDIA/15.png)
+
 ![Reddit-Scraper](MEDIA/2.PNG)
 
 ![Reddit-Scraper](MEDIA/3.PNG)
@@ -45,12 +55,4 @@ Labeling data is extremely useful to apply Sentiment Analysis on these comments 
 
 ![Reddit-Scraper](MEDIA/8.png)
 
-![Reddit-Scraper](MEDIA/11.png)
 
-![Reddit-Scraper](MEDIA/12.png)
-
-![Reddit-Scraper](MEDIA/13.png)
-
-![Reddit-Scraper](MEDIA/14.png)
-
-![Reddit-Scraper](MEDIA/15.png)
