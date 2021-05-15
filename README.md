@@ -49,6 +49,8 @@ Labeling data is extremely useful to apply Sentiment Analysis on these comments 
 
 ![Reddit-Scraper](MEDIA/5.PNG)
 
+# ...
+
 ![Reddit-Scraper](MEDIA/6.PNG)
 
 ![Reddit-Scraper](MEDIA/7.PNG)
