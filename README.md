@@ -1,5 +1,11 @@
 # Reddit-Scraper
 
+The goal of this project is to retrieve some data related to a specific user in order to create statistics. 
+
+#RETRIEVING DATA
+
+
+
 ![Reddit-Scraper](MEDIA/1.PNG)
 
 ![Reddit-Scraper](MEDIA/2.PNG)
