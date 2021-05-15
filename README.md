@@ -31,6 +31,10 @@ Labeling data is extremely useful to apply Sentiment Analysis on these comments 
 
 # LIST OF SUBREDDIT RECOMMENDATIONS
 
+After labeling every comment I'm retrieving 100 of the most used positive words by the redditor.
+These words are going to be used to generate a list of recommended subreddits that could potentially fit with the user's taste.
+Another factor used to generate this list is the name of the subreddits in which the user is more active; useful to find similar subreddits.
+
 ![Reddit-Scraper](MEDIA/11.png)
 
 ![Reddit-Scraper](MEDIA/12.png)
