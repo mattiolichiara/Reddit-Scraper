@@ -53,7 +53,12 @@ Another factor used to generate this list is the name of the subreddits in which
 
 ![Reddit-Scraper](MEDIA/5.PNG)
 
-# ...
+# POTENTIAL BUYER?
+
+Another study applied here is: Is this user a potential buyer for a certain product? (In this case a videogame called "Overwatch")
+I've created a small set of words correlated to gaming and Overwatch.
+Afterwards I've calculated what is the percentage of gaming/Overwatch correlated words in this user's pool of words. 
+Is the percentage higher than a certain bound? If yes than this user is going to be considered as a possible buyer and his name is going to be added to a list.
 
 ![Reddit-Scraper](MEDIA/6.PNG)
 
